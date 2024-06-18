@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Quan ly giao dich chuyen tien</name>
+   <tag></tag>
+   <elementGuidId>0df8daa2-11df-46ef-99cf-4fe1d2dc0d9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;sidebar-nav&quot;]/li[10]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;sidebar-nav&quot;)/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[1][count(. | //*[(text() = 'Quản lý giao dịch chuyển tiền' or . = 'Quản lý giao dịch chuyển tiền')]) = count(//*[(text() = 'Quản lý giao dịch chuyển tiền' or . = 'Quản lý giao dịch chuyển tiền')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce5b6389-5eeb-4994-b262-90681c0fe125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quản lý giao dịch chuyển tiền</value>
+      <webElementGuid>0710c122-2a5f-4cff-8f3d-5aba2c9fd7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-nav&quot;)/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[1]</value>
+      <webElementGuid>4feb6cd7-76c9-4d4f-92ff-a86e168d67ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sidebar-nav']/li[10]/a/span</value>
+      <webElementGuid>7835e137-f06f-4c5b-bacb-fe3b29223121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mục đích thanh toán'])[1]/following::span[1]</value>
+      <webElementGuid>6f96b536-dd92-4875-a584-db8e66a1605b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách thanh toán'])[1]/following::span[2]</value>
+      <webElementGuid>8b4868ce-e23f-4b20-b788-386d0b7a3fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tra cứu giao dịch chuyển, rút'])[1]/preceding::span[1]</value>
+      <webElementGuid>f4ca87e9-29b0-47ab-9476-6edd5c0bcc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thống kê biến động số dư khả dụng'])[1]/preceding::span[2]</value>
+      <webElementGuid>65dbe4b3-b4de-4c31-8440-80fa9669363a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quản lý giao dịch chuyển tiền']/parent::*</value>
+      <webElementGuid>9305ded4-a3c1-45df-a6fa-af3171bccd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a/span</value>
+      <webElementGuid>3d1b9b33-0405-40d3-ba11-e8287f95e1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quản lý giao dịch chuyển tiền' or . = 'Quản lý giao dịch chuyển tiền')]</value>
+      <webElementGuid>912cc91c-6e04-403f-b577-c216295a85be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

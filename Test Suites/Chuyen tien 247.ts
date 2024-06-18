@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Chuyen tien 247</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5da41301-7fd6-4601-8e41-e487c07b3874</testSuiteGuid>
+   <testCaseLink>
+      <guid>6a50745c-52ff-4edd-a5dd-4e8c4d22e70c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Chi hộ MCV</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a8124d0f-a35d-430c-b9f8-efb2e10ac620</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Chuyển tiền 247</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a8124d0f-a35d-430c-b9f8-efb2e10ac620</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>stk</value>
+         <variableId>a74a44d4-89b0-4f38-aee5-e6add6b5d280</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8124d0f-a35d-430c-b9f8-efb2e10ac620</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>amount</value>
+         <variableId>7e29ba53-e84c-4a3c-9c0b-2edd4f9c1f6c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8124d0f-a35d-430c-b9f8-efb2e10ac620</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>description</value>
+         <variableId>3ad4858e-a518-4d07-9b9c-7910bdf12f99</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8124d0f-a35d-430c-b9f8-efb2e10ac620</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>authcode</value>
+         <variableId>84902f7f-da01-4021-ab5e-51b9d25734e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8124d0f-a35d-430c-b9f8-efb2e10ac620</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_msg</value>
+         <variableId>aab64ef7-1e73-42cd-9e0f-6ae6e7085d9b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

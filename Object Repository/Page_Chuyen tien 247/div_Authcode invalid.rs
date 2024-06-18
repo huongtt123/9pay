@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Authcode invalid</name>
+   <tag></tag>
+   <elementGuidId>4abc3848-9b41-4931-8463-310b8842625d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-form-explain</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/section/div[2]/div/form/div/div/div[2]/div/div[6]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a98e341b-f051-4c2c-9888-a6af915c6366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form-explain</value>
+      <webElementGuid>ce2aa0ad-e593-4534-a434-1fe52c40fbb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mã xác thực không đúng</value>
+      <webElementGuid>65428a50-3229-49a9-8341-aadcb54a6582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/section[@class=&quot;section transaction-detail custom-section&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;p-3&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-12&quot;]/div[@class=&quot;extra-form-data&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col&quot;]/div[@class=&quot;code ant-row ant-form-item ant-form-item-with-help&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control has-error&quot;]/div[@class=&quot;ant-form-explain&quot;]</value>
+      <webElementGuid>05ffd55b-369d-4107-9f74-fe5dc03c7a34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/section/div[2]/div/form/div/div/div[2]/div/div[6]/div/div[2]/div/div</value>
+      <webElementGuid>9c5f4a81-696f-423f-b62c-3cb0c7e64aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::div[3]</value>
+      <webElementGuid>f0d8925d-aa29-4d19-b3bf-ba7490c77489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển tiền'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae2371d9-e73f-4ffb-adee-956c9c5931f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mã xác thực không đúng']/parent::*</value>
+      <webElementGuid>4f56c30b-f5c6-4555-b244-10a1fdaac8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div</value>
+      <webElementGuid>c2548878-b901-48fa-ae14-8c062e5745ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mã xác thực không đúng' or . = 'Mã xác thực không đúng')]</value>
+      <webElementGuid>bccbf412-2a7f-488a-936c-c82a4619caef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

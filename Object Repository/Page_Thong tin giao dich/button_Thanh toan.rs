@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Thanh toan</name>
+   <tag></tag>
+   <elementGuidId>b21f4805-321b-4de7-98b3-ff05de20c6e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-common.btn-no-border</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2da9fb0-3b0c-4abb-8b22-c5b5535dd94d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-common btn-no-border</value>
+      <webElementGuid>370ec9ca-2140-4254-9590-32e77eedc75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c8df4ba7-78fe-4cf3-b453-2d681326f025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán</value>
+      <webElementGuid>9a6f394e-d95e-4b80-b3ff-554007784df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;rs&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;w-1200 main-content display_flex layout-3-column&quot;]/div[@class=&quot;aside-center&quot;]/div[@class=&quot;aside-center-inner&quot;]/form[1]/div[@class=&quot;box-btn&quot;]/button[@class=&quot;btn-common btn-no-border&quot;]</value>
+      <webElementGuid>1e21754e-3c88-4ac1-a618-2ebada75ee4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>1627b58d-a01b-44d0-b6e0-6c042dce8273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quay lại'])[1]/following::button[1]</value>
+      <webElementGuid>532f306f-1e05-4b3e-b720-005c183f0858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extra Data'])[1]/following::button[1]</value>
+      <webElementGuid>18d5c00a-3f46-46c8-9e0c-9f2bf6ef84ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thanh toán']/parent::*</value>
+      <webElementGuid>379194c0-4f14-4ad9-b364-9f283267c0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>fcb292f8-822c-4494-aabb-209c3548a5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Thanh toán' or . = 'Thanh toán')]</value>
+      <webElementGuid>01c949fc-4ba6-4535-86c7-aa0c275a7eb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Cong thanh toan_bi bi-list toggle-sidebar-btn</name>
+   <tag></tag>
+   <elementGuidId>da83ea14-bebe-4b92-a90f-852995d2068d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-list.toggle-sidebar-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>49f50884-97f1-4fcc-b790-1f8018f754e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-list toggle-sidebar-btn</value>
+      <webElementGuid>bb60e7b3-ff5d-4e46-bf0d-d755cd23ada2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;d-flex align-items-center justify-content-between&quot;]/i[@class=&quot;bi bi-list toggle-sidebar-btn&quot;]</value>
+      <webElementGuid>803ef8f2-3c0f-4a16-969c-5f5648a407a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/i</value>
+      <webElementGuid>3c5e3340-4403-495a-b327-a364ac00cbbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>c318a2c9-db4f-4370-90ee-15d19a06d174</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

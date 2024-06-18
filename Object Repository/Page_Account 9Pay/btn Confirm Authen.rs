@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn Confirm Authen</name>
+   <tag></tag>
+   <elementGuidId>85b39b02-f3fa-468c-b1f4-678e326204ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-confirm.ms-2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/div[@class=&quot;container vh-100&quot;]/div[@class=&quot;row justify-content-center d-flex align-items-center vh-100&quot;]/div[@class=&quot;col-md-8 py-4 box-content&quot;]/div[@class=&quot;card box-login shadow-lg&quot;]/div[@class=&quot;card-body p-5&quot;]/div[@class=&quot;form-otp d-flex justify-content-center mb-5&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;btn-action d-flex justify-content-between mt-5&quot;]/button[@class=&quot;btn btn-confirm ms-2&quot;][count(. | //*[@type = 'submit' and (text() = 'Xác nhận' or . = 'Xác nhận')]) = count(//*[@type = 'submit' and (text() = 'Xác nhận' or . = 'Xác nhận')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e0e1f72-66ed-45f0-9243-9cd683bacfce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ef41b8ed-96b9-48be-8e36-0f61fe555b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-confirm ms-2</value>
+      <webElementGuid>b8031a03-9ad2-460e-b690-b68eaf6d546b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xác nhận</value>
+      <webElementGuid>9b7e5cd5-e374-4224-9897-64a5b8d80c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container vh-100&quot;]/div[@class=&quot;row justify-content-center d-flex align-items-center vh-100&quot;]/div[@class=&quot;col-md-8 py-4 box-content&quot;]/div[@class=&quot;card box-login shadow-lg&quot;]/div[@class=&quot;card-body p-5&quot;]/div[@class=&quot;form-otp d-flex justify-content-center mb-5&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;btn-action d-flex justify-content-between mt-5&quot;]/button[@class=&quot;btn btn-confirm ms-2&quot;]</value>
+      <webElementGuid>29467c4a-f96e-4fa9-a414-94ca2f5bcc7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>94ee3a0c-c79c-4eb7-ac53-819e6738d2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/following::button[1]</value>
+      <webElementGuid>64cccb72-db37-47a2-b403-7ab9cad710e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[1]/following::button[2]</value>
+      <webElementGuid>6d8dcdf1-938a-4086-a22c-081719a3db7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xác nhận']/parent::*</value>
+      <webElementGuid>7d2d7fe9-d9e3-4b23-9aae-fe0376419cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>b4d5aa54-bb4f-432f-a854-e74bfb4c1056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Xác nhận' or . = 'Xác nhận')]</value>
+      <webElementGuid>2f4f4d95-a9dd-4275-a8c1-639e1efe09fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

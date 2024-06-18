@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_description</name>
+   <tag></tag>
+   <elementGuidId>93420331-de0b-4576-a19a-2f6c6bb3ed96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/div[2]/form/div/div/div[2]/div/div[5]/div/div[2]/div/span/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

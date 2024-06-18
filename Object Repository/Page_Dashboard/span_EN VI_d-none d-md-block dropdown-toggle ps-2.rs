@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_EN VI_d-none d-md-block dropdown-toggle ps-2</name>
+   <tag></tag>
+   <elementGuidId>54e22189-3f63-40e0-97e9-c528cbc97bcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/nav/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.d-none.d-md-block.dropdown-toggle.ps-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>37e4119a-ca61-4898-8c0c-3b53f02ea415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-md-block dropdown-toggle ps-2</value>
+      <webElementGuid>57fe8bf4-6359-4d90-8081-64cad0170a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;header-nav&quot;]/ul[@class=&quot;d-flex align-items-center&quot;]/li[@class=&quot;nav-item dropdown dropdown-avatar&quot;]/a[@class=&quot;nav-link nav-profile d-flex align-items-center pe-0 dropdown-avatar-link show&quot;]/span[@class=&quot;d-none d-md-block dropdown-toggle ps-2&quot;]</value>
+      <webElementGuid>490ce6fa-e8fb-42ff-bebf-b18a73d405e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/nav/ul/li/a/span</value>
+      <webElementGuid>7551280d-c2b9-4b59-af1f-a318c1717769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN  VI'])[1]/following::span[1]</value>
+      <webElementGuid>78d263ca-e7fb-4290-9d26-92909ac72988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cổng thanh toán'])[1]/following::span[3]</value>
+      <webElementGuid>6863407c-c8a8-4a0d-9533-e4a031cc63da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[1]/preceding::span[1]</value>
+      <webElementGuid>7dc21043-ca9e-41f4-becb-bb314c8462a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[2]</value>
+      <webElementGuid>9fc85026-2b96-4dc7-b06c-bdc257d4385a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>c09f2b92-e90a-409f-bb51-bb498a871260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>02d475ec-1ccf-4f65-9d06-40ab0556e10b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

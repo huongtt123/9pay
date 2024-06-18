@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chuyen tien 247</name>
+   <tag></tag>
+   <elementGuidId>18cd04db-c695-4de2-9ad1-03b6b3424b78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='components-nav-disbursement']/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#components-nav-disbursement > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b795947-6163-44d1-a113-4d443ab1c30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/disbursement/request</value>
+      <webElementGuid>854eb6ba-23bf-4e4d-8c4f-647d6a3d7116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chuyển tiền 247 </value>
+      <webElementGuid>c41b3ad9-7bfe-446a-be71-5409f6b346a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;components-nav-disbursement&quot;)/li[3]/a[1]</value>
+      <webElementGuid>b8b471c4-6903-4246-8578-1c345b54ff4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='components-nav-disbursement']/li[3]/a</value>
+      <webElementGuid>e7a461aa-44fa-415a-9f38-d54c95d93e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thống kê biến động số dư khả dụng'])[1]/following::a[1]</value>
+      <webElementGuid>97918535-c0dd-49fc-aafb-ee0915680d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tra cứu giao dịch chuyển, rút'])[1]/following::a[2]</value>
+      <webElementGuid>45769fee-e913-4cab-b35e-0c0cd7c1ea41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý Ví doanh nghiệp'])[1]/preceding::a[1]</value>
+      <webElementGuid>45e05006-6088-4ed3-90bb-5d1cc39c8a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/disbursement/request')]</value>
+      <webElementGuid>18500041-8285-43af-a7cb-0c7c6b6639f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/ul/li[3]/a</value>
+      <webElementGuid>d40872d3-3a42-4960-9696-30433b017261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/disbursement/request' and (text() = 'Chuyển tiền 247 ' or . = 'Chuyển tiền 247 ')]</value>
+      <webElementGuid>933126a2-02dd-45f4-8f98-673552946023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
