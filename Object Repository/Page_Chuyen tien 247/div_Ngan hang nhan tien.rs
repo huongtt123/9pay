@@ -6,12 +6,12 @@
    <elementGuidId>003da3ce-3aae-4d84-a3c7-6699ce34d2ef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ant-select-selection__placeholder</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/form/div/div/div[1]/div[1]/div/div[2]/div/span/div/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/div[2]/form/div/div/div/div[1]/div/div[2]/div/span/div/div/div/div[1]</value>
+         <key>CSS</key>
+         <value>div.ant-select-selection__placeholder</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9d9e716c-f3e9-44dc-848d-69e7f06f5571</webElementGuid>
+      <webElementGuid>1151287c-c12f-4bbb-8c31-a74f6c461e36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>f0005219-8b72-49b4-8816-68c139fb8ff6</webElementGuid>
+      <webElementGuid>b5d6f10e-6326-44f2-8258-d444ddefd303</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-select-selection__placeholder</value>
-      <webElementGuid>1cf61c4a-4493-4de5-9649-a6dc92f852fe</webElementGuid>
+      <webElementGuid>d533f5b4-0fa4-4f88-afa1-a7f1a84fae41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ngân hàng nhận tiền</value>
-      <webElementGuid>29653cdb-596a-4388-b9ac-036632b7fc7f</webElementGuid>
+      <webElementGuid>292f9da8-2781-4249-a94a-afa6cc4f17d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/section[@class=&quot;section transaction-detail custom-section&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;p-3&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-12&quot;]/div[@class=&quot;first-wf ant-row&quot;]/div[@class=&quot;ant-col&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/div[@class=&quot;ant-select ant-select-enabled&quot;]/div[@class=&quot;ant-select-selection ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]/div[@class=&quot;ant-select-selection__placeholder&quot;]</value>
-      <webElementGuid>aa85c38b-ac8f-4c41-9aad-92fc6566df93</webElementGuid>
+      <webElementGuid>6650ba06-23a3-4f75-a723-f404bc3cd57e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main']/section/div[2]/div/form/div/div/div/div/div/div[2]/div/span/div/div/div/div</value>
-      <webElementGuid>90908c4b-3989-48d8-a9cb-9532f23b908c</webElementGuid>
+      <webElementGuid>7cadda1f-eddc-424c-8206-cf16fc66801e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[6]</value>
-      <webElementGuid>7b152bfa-4e94-424b-ac0b-00c3411c946a</webElementGuid>
+      <webElementGuid>0f78f791-2a50-4c67-bf99-ff8a5b7cec6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển đến'])[1]/preceding::div[3]</value>
-      <webElementGuid>51258d08-2e6e-48b0-8f6f-66ebc5e6ac1c</webElementGuid>
+      <webElementGuid>b9c98bfe-59b6-433d-b7d1-d1876547eaa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ngân hàng nhận tiền']/parent::*</value>
-      <webElementGuid>2294f6e7-0bb1-4a96-9cbc-f9698924c06d</webElementGuid>
+      <webElementGuid>dd7e4448-8d06-4471-b139-76c49992daee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div/div/div/div</value>
-      <webElementGuid>e23a9402-d912-4501-803b-00f5d559e0e0</webElementGuid>
+      <webElementGuid>0b4b4305-8b14-413b-b1b7-892241e6415b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Ngân hàng nhận tiền' or . = 'Ngân hàng nhận tiền')]</value>
-      <webElementGuid>0dd72982-f763-4432-a3e4-f41e36aac8d9</webElementGuid>
+      <webElementGuid>5220ea13-4604-4047-9135-c387b08c75e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

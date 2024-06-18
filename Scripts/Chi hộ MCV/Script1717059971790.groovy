@@ -119,13 +119,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Chuyen tien 247/input__auth
 
 WebUI.click(findTestObject('Page_Chuyen tien 247/button_Chuyen tien'))
 
- WebUI.click(findTestObject('Object Repository/Page_Chuyen tien 247/button_Xem giao dich'))
-	 
- 
 WebUI.enableSmartWait()
 
-
-
-
-
+WebUI.verifyTextPresent(expected_msg, false)
 

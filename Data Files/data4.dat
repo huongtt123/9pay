@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Chuyen tien 247 Data</name>
+   <name>data4</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>7c62aa3d-a9c1-4f98-96fb-71ac89ad0304</dataFileGUID>
-   <dataSourceUrl>C:\Users\huongtt\Documents\Chuyen tien 247_Data.xlsx</dataSourceUrl>
+   <dataFileGUID>2008888f-78c3-4bf2-8322-ea38c30cc6b6</dataFileGUID>
+   <dataSourceUrl>C:\Users\huongtt\Downloads\Data Katalon\Book1.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

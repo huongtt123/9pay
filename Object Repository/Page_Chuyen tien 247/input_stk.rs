@@ -6,12 +6,12 @@
    <elementGuidId>f08e870e-cfa6-4a07-b279-da69fe05bf81</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.ant-input</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b424e91a-3e6d-4eca-b414-edef5cf69c4e</webElementGuid>
+      <webElementGuid>5b8dcf1f-62b5-4d23-9e5e-81495d78790d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Số tài khoản/Số thẻ</value>
-      <webElementGuid>05fd0f2d-4e07-4a0e-8472-14e620a26b3b</webElementGuid>
+      <webElementGuid>f466d9f9-04f1-4679-8f3c-a6189a8b624e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0c5c611e-c2ca-4373-8f2e-d80e4764b272</webElementGuid>
+      <webElementGuid>1db54983-1e12-4eea-85bd-0447368656cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>19</value>
-      <webElementGuid>ef146148-4b4d-45fc-b053-b10e1ffa975b</webElementGuid>
+      <webElementGuid>d7487c4c-dac3-4491-9fe9-aaf4e3a13fcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input</value>
-      <webElementGuid>d5419a29-268f-45e7-aac5-8bc7ea03e5f9</webElementGuid>
+      <webElementGuid>7b605496-5ddb-4bfe-96d2-5e93ee582b82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/section[@class=&quot;section transaction-detail custom-section&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;p-3&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-12&quot;]/div[@class=&quot;first-wf ant-row&quot;]/div[@class=&quot;ant-col&quot;]/div[@class=&quot;p-0 ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-16 ant-col-lg-20&quot;]/div[@class=&quot;account-number ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/input[@class=&quot;ant-input&quot;]</value>
-      <webElementGuid>2b34da77-d14f-4607-8d3c-f30028bf588a</webElementGuid>
+      <webElementGuid>21e1bf84-fdc3-4cbd-a843-e187b1278065</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>e890d2bc-af42-43ba-8b8e-37f345657a1c</webElementGuid>
+      <webElementGuid>9a674c85-8bc3-45a5-9094-04085d522f07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main']/section/div[2]/div/form/div/div/div/div[3]/div/div[2]/div/div/div/span/input</value>
-      <webElementGuid>bedb4ab9-1bc8-41b7-a086-8519863c1d63</webElementGuid>
+      <webElementGuid>331f447b-79e6-4eeb-92f5-cc6ccae04f0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/input</value>
-      <webElementGuid>99ce391e-0801-4ab8-89c1-3d528575bb34</webElementGuid>
+      <webElementGuid>2d010920-c689-4ace-940f-d5b4f6e679b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Số tài khoản/Số thẻ' and @type = 'text']</value>
-      <webElementGuid>2b3756ef-bcb0-4763-86ff-0dd88faf47d4</webElementGuid>
+      <webElementGuid>1584c135-0ca4-4551-b51c-9ae6d1cfd69b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

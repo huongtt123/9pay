@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/div[2]/form/div/div/div[2]/button/div</value>
+         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/form/div/div/div[2]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>631ba05b-2b1a-489a-a745-8634a768c91b</webElementGuid>
+      <webElementGuid>5663b0be-9b7f-40c8-a88c-36e2f97c843e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-show-transaction</value>
-      <webElementGuid>6fe3aa53-d5db-4a0e-9f05-f2a3c9503dea</webElementGuid>
+      <webElementGuid>bd23f4ca-7d70-443e-9841-1b73cdbd5278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6ecb3f2e-f25a-48bb-9249-b09ffa3ee4cc</webElementGuid>
+      <webElementGuid>e656a876-ac8e-4b70-ac5b-8b5bf2d383e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-btn</value>
-      <webElementGuid>9fa1f213-ae35-43c3-9e7a-8929d47a8b67</webElementGuid>
+      <webElementGuid>a1cbe566-5092-40dc-9f79-3f16b65524d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Xem giao dịch</value>
-      <webElementGuid>7c5cb3d3-5942-4d49-9147-1257dfc4dd09</webElementGuid>
+      <webElementGuid>11f7b1c9-abdc-4086-aada-bfc7cd60358f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-show-transaction&quot;)</value>
-      <webElementGuid>25a8adec-3388-4eac-a2e5-fc8b329a91d2</webElementGuid>
+      <webElementGuid>934334c2-22b4-4bab-9802-c9e69d716b4a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-show-transaction']</value>
-      <webElementGuid>8ae1fedb-1c9e-4c4a-97d0-b34c38473eb9</webElementGuid>
+      <webElementGuid>a0e855f4-14fe-469d-be32-c179237aeef1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển tiếp'])[1]/following::button[1]</value>
-      <webElementGuid>f321510e-6aa4-44a7-bfce-99f3ee06ff5d</webElementGuid>
+      <webElementGuid>9ec18ef6-2081-4c08-a932-7552aeb4d685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WOORI BANK - NH Woori'])[1]/following::button[2]</value>
-      <webElementGuid>2122a557-546d-43f7-9df4-3c6f8d08f299</webElementGuid>
+      <webElementGuid>0f0eaf28-57de-4ce0-a63a-d665f7467093</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>ecc5c347-9f02-437c-908a-de48e6d987b6</webElementGuid>
+      <webElementGuid>f066ed4d-7230-4396-bfe1-bb03f048ae4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btn-show-transaction' and @type = 'button' and (text() = 'Xem giao dịch' or . = 'Xem giao dịch')]</value>
-      <webElementGuid>f4eb3f2f-deeb-48b7-a268-0ef3a49dec6c</webElementGuid>
+      <webElementGuid>ff3c11b2-a56f-4bdd-9d4f-df7ab292a9a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

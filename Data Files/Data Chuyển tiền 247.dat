@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>9cee1a30-5ea5-4f7d-833d-852d42e563a6</dataFileGUID>
-   <dataSourceUrl>C:\Users\huongtt\Documents\Chuyen tien 247_Data.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\huongtt\Downloads\Data Katalon\Chuyen tien 247_Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
