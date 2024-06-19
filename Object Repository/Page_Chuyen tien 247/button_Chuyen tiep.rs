@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>accountname</name>
+   <name>button_Chuyen tiep</name>
    <tag></tag>
-   <elementGuidId>442458e0-1b32-4805-b189-e93d964de4d5</elementGuidId>
+   <elementGuidId>bfe55608-5574-425c-80d0-46eb00ec090b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/form/div/div/div[2]/div/div[1]/div/div[2]/div/span/span</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div/div[2]/div/div[2]/div/div[2]/button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>data4</name>
+   <name>Data Verify Giao dịch</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>

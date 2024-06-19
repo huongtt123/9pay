@@ -123,3 +123,5 @@ WebUI.enableSmartWait()
 
 WebUI.verifyTextPresent(expected_msg, false)
 
+WebUI.closeBrowser()
+

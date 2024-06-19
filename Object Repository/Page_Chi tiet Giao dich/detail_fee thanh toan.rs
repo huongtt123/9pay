@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>accountname</name>
+   <name>detail_fee thanh toan</name>
    <tag></tag>
-   <elementGuidId>442458e0-1b32-4805-b189-e93d964de4d5</elementGuidId>
+   <elementGuidId>fb1028ab-81cd-4246-930a-8d2b960b335d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;main&quot;]/section/div[2]/div/div/div[3]/div[1]/form/div/div/div[2]/div/div[1]/div/div[2]/div/span/span</value>
+         <value>//*[@id=&quot;main&quot;]/section/div/div[1]/div[1]/div[6]/div[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
