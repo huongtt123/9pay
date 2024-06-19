@@ -15,7 +15,7 @@
       <guid>f9d68a17-936a-4bfd-938f-afc4fdfc4c5d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Chi hộ MCV</testCaseId>
+      <testCaseId>Test Cases/Chuyển tiền 247</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>ba2f9e67-2d78-4b0a-bafb-d288a18a3e64</id>

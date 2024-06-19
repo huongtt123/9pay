@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT247 - Verify Balance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54edcb6c-1cc0-4e35-972d-6befb217524d</testCaseGuid>
+</TestCaseEntity>

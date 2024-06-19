@@ -15,7 +15,7 @@
       <guid>6b5aa8d5-0712-48f9-a33d-0d44efdd4047</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Chi hộ MCV</testCaseId>
+      <testCaseId>Test Cases/Chuyển tiền 247</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>74136321-fea5-4181-b15d-013c7161366b</id>
@@ -23,7 +23,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/data4</testDataId>
+         <testDataId>Data Files/Data Verify Giao dịch</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>

@@ -15,7 +15,7 @@
       <guid>6a50745c-52ff-4edd-a5dd-4e8c4d22e70c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Chi hộ MCV</testCaseId>
+      <testCaseId>Test Cases/Chuyển tiền 247</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>a8124d0f-a35d-430c-b9f8-efb2e10ac620</id>
@@ -56,5 +56,65 @@
          <value>expected_msg</value>
          <variableId>aab64ef7-1e73-42cd-9e0f-6ae6e7085d9b</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cd921d41-e122-4a41-b8cd-f4cd6f300e8a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CT247 - Verify Giao dịch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5bd65a4d-538c-43f7-ba5f-b931098faf48</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Verify Giao dịch</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5bd65a4d-538c-43f7-ba5f-b931098faf48</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>stk</value>
+         <variableId>2738b1a0-391c-41f6-9cb6-a895116dcb28</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bd65a4d-538c-43f7-ba5f-b931098faf48</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>amount</value>
+         <variableId>078701d2-c6ed-4b50-8ebc-8d23225c5a99</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bd65a4d-538c-43f7-ba5f-b931098faf48</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>description</value>
+         <variableId>8eebcf78-12a6-4e03-8f7b-3da67ae5e0a2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bd65a4d-538c-43f7-ba5f-b931098faf48</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>authcode</value>
+         <variableId>5e826846-ed79-4a75-949b-bef71f8c670a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5bd65a4d-538c-43f7-ba5f-b931098faf48</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_msg</value>
+         <variableId>492a5ed0-e254-47f5-961f-95e021446618</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>22fcbbe8-130a-4817-9aa8-3c127b1ac6b7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CT247 - Verify Balance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>32274efe-fc44-4e16-90a2-f2a1f9679af5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CT247 - Verify Receiving Bank</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT247 - Verify Receiving Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcf09e2d-be22-4fff-95ba-2adc742a47a9</testCaseGuid>
+</TestCaseEntity>
